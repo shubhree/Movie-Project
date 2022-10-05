@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1611568805 source:c:\users\daman\onedrive\documents\c programs\movie project\movie project\main.c
+	<stdio.h>
+	"gryphflix.h"
+
+1611566010 c:\users\daman\onedrive\documents\c programs\movie project\movie project\gryphflix.h
+
+1611522618 c:\users\daman\onedrive\documents\c programs\movie project\movie project\gryphflix.c
+	<string.h>
+	"gryphflix.h"
+
+1611568391 source:c:\users\daman\onedrive\documents\c programs\movie project\movie project\gryphflix.c
+	<stdio.h>
+	<string.h>
+	"gryphflix.h"
+
